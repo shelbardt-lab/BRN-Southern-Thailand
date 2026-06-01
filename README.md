@@ -1,1 +1,1 @@
-# BRN-Southern-Thailand
+cve-southern-thailand-research
