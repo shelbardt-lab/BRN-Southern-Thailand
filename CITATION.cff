@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Counter Violent Extremism (CVE) Concept in Thailand's Southern Border Provinces
+message: "If you use this repository, please cite it as follows."
+type: report
+
+authors:
+  - family-names: Wattanayagorn
+    given-names: Panitan
+  - family-names: Burinsuchat
+    given-names: Jessada
+  - family-names: Helbardt
+    given-names: Sascha
+
+repository-code: https://github.com/shelbardt-lab/BRN-Southern-Thailand
+
+keywords:
+  - CVE
+  - Counter Violent Extremism
+  - BRN
+  - Southern Thailand
+  - Radicalization
+  - Insurgency
+  - Security Studies
+
+license: CC-BY-4.0
