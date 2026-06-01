@@ -1,7 +1,7 @@
 cff-version: 1.2.0
-title: Counter Violent Extremism (CVE) Concept in Thailand's Southern Border Provinces
-message: "If you use this repository, please cite it as follows."
-type: report
+message: "If you use this research report, please cite it as follows."
+
+title: "Counter Violent Extremism (CVE) Concept in Thailand's Southern Border Provinces: Origins, Problems, and Prospects"
 
 authors:
   - family-names: Wattanayagorn
@@ -11,7 +11,7 @@ authors:
   - family-names: Helbardt
     given-names: Sascha
 
-repository-code: https://github.com/shelbardt-lab/BRN-Southern-Thailand
+date-released: 2023-01-01
 
 keywords:
   - CVE
@@ -21,5 +21,3 @@ keywords:
   - Radicalization
   - Insurgency
   - Security Studies
-
-license: CC-BY-4.0
